@@ -64,3 +64,7 @@ See COPYING file for the full LGPL text.
 
 Original ZIP package is copyrighted by Gilles Vollant, see
 quazip/(un)zip.h files for details, basically it's zlib license.
+
+################################################
+以上是原版描述,该quazip的版本是0.7.1, 主要用于qt4开发.
+写了个解压缩demo,在quazipdemo
